@@ -8,7 +8,7 @@
 
 **Security researcher**, **Python** coder, **GNU/Linux** fan.
 
-[![pgp](https://img.shields.io/badge/pgp-0xACA1C7455B654FAF-313131?style=flat&labelColor=313131&color=313131)](https://github.com/foozzi.gpg)
+[![pgp](https://img.shields.io/badge/pgp-0xE0D66479B7AD6D2C-313131?style=flat&labelColor=313131&color=313131)](https://github.com/foozzi.gpg)
 
 
 **Contacts:**
